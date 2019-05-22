@@ -14,14 +14,14 @@ Click on Developer, Insert, Active X Controls, command button. After this is set
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_activeX.PNG)<hr>
 
 # VBA Script
-a.	We write the explicit option to keep all variables isolated.<br>
-b.	Next we create all the Outlook objects, integers, strings.<br>
-c.	This will check if Outlook is open. If not, then the script will open a new Outlook application window.<br>
-d.	We define where we want to extract the attachments and create a Folder to save the attachments.<br>
-e.	Now we set which Outlook Main mailbox and sub-mail box we are working with.<br>
-f.	We now set the items object to a specific folder object.<br>
-g.	Now we loop through all emails for attachments in the specified mailbox’s.<br>
-h.	As the script finds an attachment, it saves the attachment into the specified folder (d), the loop runs through all emails.<br>
+a.	First, write the explicit option to keep all variables isolated.<br>
+b.	Next create all the Outlook objects, integers, strings.<br>
+c.	Second, is to check if Outlook is open. If not, then the script will open a new Outlook application window.<br>
+d.	Next, define where to extract the attachments, create the folder, and save the attachments.<br>
+e.	Now set which Outlook Main mailbox and sub-mail box to work with.<br>
+f.	Next set the items object to a specific folder object.<br>
+g.	Now loop through all emails for attachments in the specified mailbox.<br>
+h.	As the script finds an attachment, it saves the attachment into the specified folder (d), the loop will run through all emails.<br>
 i.	Finish with setting the objects to nothing after the loop.<br>
 j.	Script completes with a “Done” message after the loop is finished.<br>
 

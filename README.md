@@ -19,7 +19,7 @@ b.	Next we create all the Outlook objects, integers, strings.<br>
 c.	This will check if Outlook is open. If not, then the script will open a new Outlook application window.<br>
 d.	We define where we want to extract the attachments and create a Folder to save the attachments.<br>
 e.	Now we set which Outlook Main mailbox and sub-mail box we are working with.<br>
-f.	We now set the items object to a specific folder object.<br>  
+f.	We now set the items object to a specific folder object.<br>
 g.	Now we loop through all emails for attachments in the specified mailbox’s.<br>
 h.	As the script finds an attachment, it saves the attachment into the specified folder (d), the loop runs through all emails.<br>
 i.	Finish with setting the objects to nothing after the loop.<br>

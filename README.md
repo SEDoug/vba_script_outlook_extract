@@ -6,14 +6,15 @@ Seeking a broader field and desire to do work in full stack development.
 
 <hr>
 
-Step-by-step guide
-1.	If you don't see the Developer tab, do this first and put a check into the Developer Tab below. Go to File, Options, Customize Ribbon. After this is setup, save your excel file as an Excel Marco-Enabled Worksheet.<br>
+1.	If you don't see the Developer tab, do this first and put a check into the Developer Tab below. Go to File, Options, Customize Ribbon.<br>
 
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_options.JPG)<br>
-Click on Developer, Insert, Active X Controls, command button.
+
+Click on Developer, Insert, Active X Controls, command button. After this is setup, save your excel file as an Excel Marco-Enabled Worksheet.
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_activeX.PNG)<hr>
 
 2.	VBA Script
-3.	This is the Outlook Main mailbox
-4.	This is where I saved the attachments.
+![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/vba_script_02.PNG)<hr>
+3. You need to have Outlook open when you execute the macro from the excel workbook.
+<hr>
 

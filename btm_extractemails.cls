@@ -1,3 +1,4 @@
+'Original VB Script created by Deepak Lohia. https://freevbatips.blogspot.com/2018/10/how-to-extract-attachments-from-outlook.html
 VERSION 1.0 CLASS
 BEGIN
   MultiUse = -1  'True
@@ -28,8 +29,8 @@ End If
 
 strFolder = ThisWorkbook.Path & "\Reports_Emailed" 'Change Reports_Emailed to the folder name where you would like to have your attachements saved
 
-Set OlFolder = OlApp.getnamespace("MAPI").Folders("NBS IT Reports").Folders("Inbox").Folders("User Access Reviews").Folders("201904")
-'Change NBS IT Reports to your Main mailbox
+Set OlFolder = OlApp.getnamespace("MAPI").Folders("Reports").Folders("Inbox").Folders("Reviews").Folders("201904")
+'Change Reports to your Main mailbox
 'Change Inbox to your sub folder of the Main mail box, etc...
 
 Set OlItems = OlFolder.Items

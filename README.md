@@ -1,11 +1,10 @@
 # vba_script_outlook_extract
-I rolled up this VBA script to automate a monthly task. With the click of a button all Outlook attachments can be saved to a folder.<br>
-Created by @DougMacGregor || http://doug-macgregor.webflow.io/<br>
-Seeking a broader field and desire to do work in full stack development.<br>
+I rolled up this VBA script to automate a monthly task. With the click of a button all Outlook attachments can be saved to a folder.
+Created by @DougMacGregor || http://doug-macgregor.webflow.io/ | Seeking a broader field and desire to do work in full stack development.<br>
 
 A VBA script can be used as a great tool to help improve a monthly task of saving multiple email attachments from any Outlook Inbox.  When I encounter a work task that requires some manual work I look for ways on “how to automate” this.  Clicking multiple emails and saving multiple attachments felt like a mindless task. Luckily for some, we have a thirst for knowledge and I wanted to share what I recently rolled up.<br>
 
-Here’s How It Works | written using with Excel | Visual Basic for Applications (VBA)<br>
+Here’s How It Works | written using with Excel | Visual Basic for Applications (VBA)
 
 # Step-by-step guide
 <hr>

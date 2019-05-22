@@ -9,11 +9,12 @@ Here’s How It Works | written using with Excel | Visual Basic for Applications
 # Step-by-step guide
 <hr>
 
-1.	If you don't see the Developer tab, do this first and put a check into the Developer Tab below. Go to File, Options, Customize Ribbon.<br>
+If you don't see the Developer tab in Excel, do this first and put a check into the Developer Tab below. Go to File, Options, Customize Ribbon.<br>
 
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_options.JPG)<br>
 
-Click on Developer, Insert, Active X Controls, command button. After this is setup, save your excel file as an Excel Marco-Enabled Worksheet.
+After this is setup, save your excel file as an Excel Marco-Enabled Worksheet. Click on Developer, Insert, Active X Controls, command button. Name the command button Extract Emails or what you see fit.<br>
+
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_activeX.PNG)<hr>
 
 # VBA Script

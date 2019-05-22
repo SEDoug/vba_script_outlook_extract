@@ -7,8 +7,8 @@ Seeking a broader field and desire to do work in full stack development.
 <hr>
 
 Step-by-step guide
-1.	If you don't see the Developer tab, do this first and put a check into the Developer Tab below. Go to File, Options, Customize Ribbon. After this is setup, save your excel file as an Excel Marco-Enabled Worksheet.
-<b>Developer Tab</b><br>
+1.	If you don't see the Developer tab, do this first and put a check into the Developer Tab below. Go to File, Options, Customize Ribbon. After this is setup, save your excel file as an Excel Marco-Enabled Worksheet.<br>
+
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_options.JPG)<br>
 Click on Developer, Insert, Active X Controls, command button.
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/excel_developer_activeX.PNG)<hr>

@@ -30,6 +30,6 @@ i.	Finish with setting the objects to nothing after the loop.<br>
 j.	Script completes with a “Done” message after the loop is finished.<br>
 
 ![java-code](https://raw.githubusercontent.com/SEDoug/vba_script_outlook_extract/master/img/vba_script_02.PNG)<hr>
-3. You need to have Outlook open when you execute the macro from the excel workbook.
+3. You need to have Outlook open when you execute the macro from the excel worksheet.
 <hr>
 

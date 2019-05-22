@@ -1,6 +1,6 @@
 # vba_script_outlook_extract
 This is a VBA script written using with Excel | Visual Basic for Applications (VBA).<br>
-I created this VB Script on top of a script I found to showcase skills while seeking full stack development knowledge.<br>
+I created this VB Script on top of a script I found to automate some taks while seeking full stack development knowledge.<br>
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/<br>
 Seeking a broader field and desire to do work in full stack development.
 
